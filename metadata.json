@@ -1,0 +1,6 @@
+{
+  "name": "Aureon Studios",
+  "description": "Architecting Brands. Crafting Influence. Aureon Studios is a premium branding, marketing, creative strategy, and digital media studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
